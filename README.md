@@ -8,6 +8,9 @@ vscode 配置 latex - windows
 下载好之后，双击打开，并找到**install-tl-windows** 文件，右键**以管理员身份运行**
 <img width="622" height="539" alt="image" src="https://github.com/user-attachments/assets/b5f1285d-e287-41ef-a230-2f81bf2a9fd3" />
 
+会先出来一个图，不用管他，等会就消失了。
+<img width="392" height="463" alt="fbc77602ec2f9694ddbd37a614b052b6" src="https://github.com/user-attachments/assets/b9c4bca2-21c7-4231-a02b-c6df2c3b3053" />
+
 按照指示下载就好了，注意修改路径
 
 <img width="331" height="376" alt="image" src="https://github.com/user-attachments/assets/d1b1a9b2-5689-456e-86ff-3d55a0502317" />
